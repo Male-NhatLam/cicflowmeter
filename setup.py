@@ -8,9 +8,9 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = "cicflowmeter"
 DESCRIPTION = "CICFlowMeter V3 Python Implementation"
-URL = "https://gitlab.com/hieulw/cicflowmeter"
-EMAIL = "hieulw99@gmail.com"
-AUTHOR = "Le Hieu"
+URL = "https://gitlab.com/Male-NhatLam/cicflowmeter"
+EMAIL = "nhatlamxx1821@gmail.com"
+AUTHOR = "NhatLam"
 REQUIRES_PYTHON = ">=3.7.0"
 VERSION = None
 
